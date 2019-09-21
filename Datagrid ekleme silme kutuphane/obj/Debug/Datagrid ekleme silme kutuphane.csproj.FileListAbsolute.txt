@@ -1,0 +1,10 @@
+C:\Users\reela\source\repos\Datagrid ekleme silme kutuphane\Datagrid ekleme silme kutuphane\bin\Debug\Datagrid ekleme silme kutuphane.exe.config
+C:\Users\reela\source\repos\Datagrid ekleme silme kutuphane\Datagrid ekleme silme kutuphane\bin\Debug\Datagrid ekleme silme kutuphane.exe
+C:\Users\reela\source\repos\Datagrid ekleme silme kutuphane\Datagrid ekleme silme kutuphane\bin\Debug\Datagrid ekleme silme kutuphane.pdb
+C:\Users\reela\source\repos\Datagrid ekleme silme kutuphane\Datagrid ekleme silme kutuphane\obj\Debug\Datagrid ekleme silme kutuphane.csprojAssemblyReference.cache
+C:\Users\reela\source\repos\Datagrid ekleme silme kutuphane\Datagrid ekleme silme kutuphane\obj\Debug\Datagrid_ekleme_silme_kutuphane.Form1.resources
+C:\Users\reela\source\repos\Datagrid ekleme silme kutuphane\Datagrid ekleme silme kutuphane\obj\Debug\Datagrid_ekleme_silme_kutuphane.Properties.Resources.resources
+C:\Users\reela\source\repos\Datagrid ekleme silme kutuphane\Datagrid ekleme silme kutuphane\obj\Debug\Datagrid ekleme silme kutuphane.csproj.GenerateResource.cache
+C:\Users\reela\source\repos\Datagrid ekleme silme kutuphane\Datagrid ekleme silme kutuphane\obj\Debug\Datagrid ekleme silme kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\reela\source\repos\Datagrid ekleme silme kutuphane\Datagrid ekleme silme kutuphane\obj\Debug\Datagrid ekleme silme kutuphane.exe
+C:\Users\reela\source\repos\Datagrid ekleme silme kutuphane\Datagrid ekleme silme kutuphane\obj\Debug\Datagrid ekleme silme kutuphane.pdb
